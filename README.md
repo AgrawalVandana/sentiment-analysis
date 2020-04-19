@@ -1,5 +1,5 @@
 # sentiment-analysis
-## Summary of analysis:
+## Summary
 
 <img src="https://github.com/AgrawalVandana/sentiment-analysis/blob/master/media/music_app_summary1.PNG">
 <img src="https://github.com/AgrawalVandana/sentiment-analysis/blob/master/media/music_app_summary2.PNG">
